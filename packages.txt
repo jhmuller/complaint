@@ -1,0 +1,17 @@
+Jupyter
+IPython 
+pandas
+numpy
+matplotlib
+typing
+python-dotenv
+gradio
+transformers
+datasets
+evaluate
+accelerate
+torch
+setuptools
+openai
+streamlit
+	
